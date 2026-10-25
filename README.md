@@ -1,2 +1,2 @@
-# DSA
-Apna College Sigma Batch (DSA)  
+# Kunal Kushwaha
+JAVA + OOPs + DSA
